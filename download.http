@@ -1,0 +1,23 @@
+### day 1
+GET https://adventofcode.com/2023/day/1/input
+Cookie: session={{session-cookie}}
+
+>>! {{$projectRoot}}/input/day1/input.txt
+
+### day2
+GET https://adventofcode.com/2023/day/2/input
+Cookie: session={{session-cookie}}
+
+>>! {{$projectRoot}}/input/day2/input.txt
+
+### day3
+GET https://adventofcode.com/2023/day/3/input
+Cookie: session={{session-cookie}}
+
+>>! {{$projectRoot}}/input/day3/input.txt
+
+### day 4
+GET https://adventofcode.com/2023/day/4/input
+Cookie: session={{session-cookie}}
+
+>>! {{$projectRoot}}/input/day4/input.txt
