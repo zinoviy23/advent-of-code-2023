@@ -44,3 +44,5 @@ bin/
 .DS_Store
 
 input/
+
+http-client.private.env.json
