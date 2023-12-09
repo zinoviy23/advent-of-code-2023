@@ -33,3 +33,9 @@ GET https://adventofcode.com/2023/day/6/input
 Cookie: session={{session-cookie}}
 
 >>! {{$projectRoot}}/input/day6/input.txt
+
+### day 7
+GET https://adventofcode.com/2023/day/7/input
+Cookie: session={{session-cookie}}
+
+>>! {{$projectRoot}}/input/day7/input.txt
